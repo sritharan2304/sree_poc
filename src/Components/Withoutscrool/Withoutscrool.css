@@ -1,0 +1,11 @@
+.heightsetup{
+    height:50vh;
+    overflow-y:scroll ;
+}
+.heightsetup::-webkit-scrollbar{
+    display: none;
+}
+.heightnone{
+    overflow-y: hidden;
+    height:50vh;
+}
