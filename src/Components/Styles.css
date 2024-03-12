@@ -103,9 +103,8 @@ button.primary.outline {
 
 /* Qr code */
 
-.image-size{
+/* .image-size{
     width: 10%;
-    /* height: 10vh; */
     padding: 5px;
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
 }
@@ -180,9 +179,6 @@ button {
 .footer a {
     text-decoration: none;
     color: #3498db;
-}
-
-
-
+} */
 
 /* Qr code */
